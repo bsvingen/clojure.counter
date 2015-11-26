@@ -1,4 +1,4 @@
-(defproject com.borkdal/clojure.counter "0.1.0"
+(defproject com.borkdal/clojure.counter "0.1.1-SNAPSHOT"
   :description "A library for counting things"
   :url "https://github.com/bsvingen/clojure.counter"
   :license {:name "Apache License 2.0"
