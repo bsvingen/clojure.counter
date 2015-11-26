@@ -1,3 +1,5 @@
+[![travis-ci.org](https://travis-ci.org/bsvingen/clojure.counter.svg?branch=master)](https://travis-ci.org/bsvingen/clojure.counter)
+
 # clojure.counter
 
 This is a simple Clojure library for counting things, and invoking side-effects at counts qualifying a provided predicate.
