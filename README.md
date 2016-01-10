@@ -2,6 +2,12 @@
 
 # clojure.counter
 
+Leiningen coordinate:
+
+```clj
+[com.borkdal/clojure.counter "0.1.0"]
+```
+
 This is a simple Clojure library for counting things, and invoking side-effects at counts qualifying a provided predicate.
 
 For instance, if you want to print a message every 100 counts, do something like this:
